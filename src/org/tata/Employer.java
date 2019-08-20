@@ -7,5 +7,6 @@ public static void main(String[] args) {
 	b=a;
 	System.out.println(b);
 System.out.println(a);
+
 }
 }
